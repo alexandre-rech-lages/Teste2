@@ -6,5 +6,6 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         System.Console.WriteLine("Hello, World!");
+        System.Console.WriteLine(char.ToUpper('h') + "ello, World!");
     }
 }
