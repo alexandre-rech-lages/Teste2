@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.Clear();
         Console.WriteLine("Hello, World!");
         System.Console.WriteLine("Hello, World!");
         System.Console.WriteLine(char.ToUpper('h') + "ello, World!");
